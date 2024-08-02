@@ -1,9 +1,7 @@
 # main links links
 main:
   - title: "Hobby"
-    url: /publications/
+    url: /talks/
 
-  - title: "Talks"
-    url: /talks/    
 
 
